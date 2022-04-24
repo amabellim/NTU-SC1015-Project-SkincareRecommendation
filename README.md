@@ -61,4 +61,6 @@ Inspired by Natural Language Processing (NLP) models:
 - https://github.com/awslabs/amazon-denseclus
 - https://towardsdatascience.com/umap-dimensionality-reduction-an-incredibly-robust-machine-learning-algorithm-b5acb01de568
 - https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+- https://slidesgo.com/theme/beauty-salon-company#search-cosmetics&position-4&results-11
+
 
